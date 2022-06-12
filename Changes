@@ -1,6 +1,6 @@
 Revision history for Package-Stash-XS
 
-{{$NEXT}}
+0.30      2022-06-12 20:00:39Z
       - misc tooling updates
       - fixed redundant argument in sprintf in tests (RT#143205)
 
