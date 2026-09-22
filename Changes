@@ -1,6 +1,6 @@
 Revision history for Package-Stash-XS
 
-{{$NEXT}}
+0.31      2026-09-22 22:59:10Z (TRIAL RELEASE)
       - potential patch for perl issue #24845
 
 0.30      2022-06-12 20:00:39Z
